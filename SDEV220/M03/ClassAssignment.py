@@ -29,8 +29,4 @@ def main():
     print("\nYour car has a sunroof:", my_Automobile.has_sunroof )
     
 if __name__ == "__main__":
-    main()    
-        
-        
-
-        
+    main()            
